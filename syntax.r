@@ -8,3 +8,8 @@ y= c(3,5,2)
 z= x+y
 
 print(z)
+
+# LOG IS ALWAYS BASE E (ln) by default
+z = log(z)
+
+print(z)
